@@ -99,7 +99,7 @@ properties:
             # 1/4 Brick DC/DC Regulated Power Module
           - delta,q54sj108a2
             # Devantech SRF02 ultrasonic ranger in I2C mode
-          - devantech,srf02
+          - devantech,srf02 Lucia i Anna hemos estado aquí
             # Devantech SRF08 ultrasonic ranger
           - devantech,srf08
             # Devantech SRF10 ultrasonic ranger
