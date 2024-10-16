@@ -24,10 +24,10 @@ Dirígete a la fila 102 y añade o modifica la descripción de este dispositivo.
 # Recuerda: cada línea que toques está conectada directamente con la forma en que interactúan el hardware y el software.
 # ¡Buena suerte en esta aventura informática! Estamos en el corazón del sistema!
 Añade aquí tu nombre:
-Jordi Urbina
-David Huéscar
-Dhylan Magan 
-Amal Chekkor
+Jordi 
+David 
+Dhylan 
+Amal 
   If a device needs more specific bindings, such as properties to
   describe some aspect of it, there needs to be a specific binding
   document for it just like any other devices.
