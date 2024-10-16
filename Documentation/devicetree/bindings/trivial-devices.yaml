@@ -19,7 +19,7 @@ description: |
 # ¡Atrévete a hacer tu primera modificación y verás cómo el código toma vida!
 # Recuerda: cada línea que toques está conectada directamente con la forma en que interactúan el hardware y el software.
 # ¡Buena suerte en esta aventura informática!
-
+Añade aquí tu nombre:
 
   If a device needs more specific bindings, such as properties to
   describe some aspect of it, there needs to be a specific binding
