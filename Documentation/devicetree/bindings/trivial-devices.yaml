@@ -45,7 +45,7 @@ Ivonne
 Naroa
 angelica
 Yousra
-David
+David 
   If a device needs more specific bindings, such as properties to
   describe some aspect of it, there needs to be a specific binding
   document for it just like any other devices.
@@ -115,6 +115,8 @@ properties:
           - delta,q54sj108a2
             # Devantech SRF02 ultrasonic ranger in I2C mode
           - devantech,srf02 Lucia i Anna hemos estado aquí
+          David ha llegado tarde, pero está aquí con 5 ejes que os traigo
+
             # Devantech SRF08 ultrasonic ranger
           - devantech,srf08
             # Devantech SRF10 ultrasonic ranger
