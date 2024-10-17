@@ -125,7 +125,7 @@ properties:
             # DMARD05: 3-axis I2C Accelerometer
           - domintech,dmard05
             # DMARD06: 3-axis I2C Accelerometer
-          - domintech,dmard06
+          - domintech,dmard06 Marilyn y Acelerómetro para monitorear movimiento de pacientes.
             # DMARD05: 3-axis I2C Accelerometer
           - domintech,dmard07
             # DMARD09: 3-axis Accelerometer
