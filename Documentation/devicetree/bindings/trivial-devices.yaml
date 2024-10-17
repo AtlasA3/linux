@@ -124,7 +124,7 @@ properties:
           - dlg,da9053
             # DMARD05: 3-axis I2C Accelerometer Delia ha estado aquí
           - domintech,dmard05
-            # DMARD06: 3-axis I2C Accelerometer
+            # DMARD06: 3-axis I2C Accelerometer Iván ha estado aquí
           - domintech,dmard06 Marilyn y Acelerómetro para monitorear movimiento de pacientes.
             # DMARD05: 3-axis I2C Accelerometer
           - domintech,dmard07
