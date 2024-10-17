@@ -99,7 +99,7 @@ properties:
             # Total-Elapsed-Time Recorder with Alarm
           - dallas,ds1682
             # CPU Peripheral Monitor
-          - dallas,ds1780
+          - dallas,ds1780 Ivonne estuvo aqui El acelerómetro mide la aceleración y movimiento del dispositivo donde está instalado.
             # CPU Supervisor with Nonvolatile Memory and Programmable I/O
           - dallas,ds4510
             # Delta AHE-50DC Open19 power shelf fan control module
