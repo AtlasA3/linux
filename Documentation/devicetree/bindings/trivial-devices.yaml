@@ -134,7 +134,7 @@ properties:
           - domintech,dmard10
             # MMA7660FC: 3-Axis Orientation/Motion Detection Sensor
           - fsl,mma7660
-            # MMA8450Q: Xtrinsic Low-power, 3-axis Xtrinsic Accelerometer
+            # MMA8450Q: Xtrinsic Low-power, 3-axis Xtrinsic Accelerometer Naroa ha estado aquí 
           - fsl,mma8450
             # MPL3115: Absolute Digital Pressure Sensor
           - fsl,mpl3115
