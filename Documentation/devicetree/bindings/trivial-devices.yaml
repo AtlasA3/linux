@@ -145,7 +145,7 @@ properties:
           - fsl,mma8450
             # MPL3115: Absolute Digital Pressure Sensor Jordi ha estado aquí!!!!!!!!!!
           - fsl,mpl3115
-            # MPR121: Proximity Capacitive Touch Sensor Controller
+            # MPR121: Proximity Capacitive Touch Sensor Controller Anna Y Lucia han estado aqui
           - fsl,mpr121
             # Honeywell Humidicon HIH-6130 humidity/temperature sensor
           - honeywell,hi6130
