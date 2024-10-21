@@ -120,6 +120,7 @@ properties:
           Dhylan esta aqui y he revisado el codigo del funcionamiento del acelerometro.
           Nicole, nenes estube aqui el codigo fuente me esta retrasando mucho. 
             # Devantech SRF08 ultrasonic ranger
+            Alba ha estado aquí pero un poco tarde, un poco más y el código abierto se lo encuentra cerrado.
           - devantech,srf08
             # Devantech SRF10 ultrasonic ranger
           - devantech,srf10
