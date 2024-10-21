@@ -120,6 +120,7 @@ properties:
           Dhylan esta aqui y he revisado el codigo del funcionamiento del acelerometro.
             # Devantech SRF08 ultrasonic ranger
           - devantech,srf08
+          Alba ha estado aquí pero un poco tarde, un poco más y el codigo abierto me lo encuentro cerrado.
             # Devantech SRF10 ultrasonic ranger
           - devantech,srf10
             # DH electronics GmbH on-board CPLD trivial SPI device
