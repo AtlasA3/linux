@@ -126,7 +126,7 @@ properties:
           - dh,dhcom-board
             # DA9053: flexible system level PMIC with multicore support
           - dlg,da9053
-            # DMARD05: 3-axis I2C Accelerometer Delia ha estado aquí y Amal también: He modificado la descripción.
+            # DMARD05: 3-axis I2C Accelerometer Delia ha estado aquí y Amal también: He modificado la descripción. David H ha ampliado la descripción.
           - domintech,dmard05
             # DMARD06: 3-axis I2C Accelerometer Naroa le pondria 4-axis 
           - domintech,dmard06 Marilyn y Acelerómetro para monitorear movimiento de pacientes.
