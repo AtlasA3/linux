@@ -117,7 +117,7 @@ properties:
             # Devantech SRF02 ultrasonic ranger in I2C mode
           - devantech,srf02 Lucia i Anna hemos estado aquí
           David ha llegado tarde, pero está aquí con 5 ejes que os traigo
-Dhylan esta aqui y he revisado el codigo del funcionamiento del acelerometro.
+          Dhylan esta aqui y he revisado el codigo del funcionamiento del acelerometro.
             # Devantech SRF08 ultrasonic ranger
           - devantech,srf08
             # Devantech SRF10 ultrasonic ranger
