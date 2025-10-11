@@ -24,29 +24,8 @@ Dirígete a la fila 102 y añade o modifica la descripción de este dispositivo.
 # Recuerda: cada línea que toques está conectada directamente con la forma en que interactúan el hardware y el software.
 # ¡Buena suerte en esta aventura informática! Estamos en el corazón del sistema!
 Añade aquí tu nombre:
-Lucia i Anna 
-Jordi 
-David 
-Dhylan 
-Amal 
-Nicole
-Maria
-Iris
-Alba
-Fernanda
-3azii
-Angela
-Grupo B: los peores
-Marilyn
-Alba ;)
-Delia :(
-Laura
-Heidi ;)
-Ivonne
-Naroa
-angelica
-Yousra
-Valle 
+
+
   If a device needs more specific bindings, such as properties to
   describe some aspect of it, there needs to be a specific binding
   document for it just like any other devices.
@@ -115,30 +94,25 @@ properties:
             # 1/4 Brick DC/DC Regulated Power Module
           - delta,q54sj108a2
             # Devantech SRF02 ultrasonic ranger in I2C mode
-          - devantech,srf02 Lucia i Anna hemos estado aquí
-          David ha llegado tarde, pero está aquí con 5 ejes que os traigo
-          Dhylan esta aqui y he revisado el codigo del funcionamiento del acelerometro.
-          Nicole, nenes estube aqui el codigo fuente me esta retrasando mucho. 
+          - devantech,srf02 
             # Devantech SRF08 ultrasonic ranger
-            Alba ha estado aquí pero un poco tarde, un poco más y el código abierto se lo encuentra cerrado.
-          - devantech,srf08
+                      - devantech,srf08
             # Devantech SRF10 ultrasonic ranger
           - devantech,srf10
             # DH electronics GmbH on-board CPLD trivial SPI device
           - dh,dhcom-board
             # DA9053: flexible system level PMIC with multicore support
           - dlg,da9053
-            # DMARD05: 3-axis I2C Accelerometer Delia ha estado aquí y Amal también: He modificado la descripción. David H ha ampliado la descripción.
-          - domintech,dmard05
-            # DMARD06: 3-axis I2C Accelerometer Naroa le pondria 4-axis 
-          - domintech,dmard06 Marilyn y Acelerómetro para monitorear movimiento de pacientes.
-            # DMARD05: 3-axis I2C Accelerometer Heidi ha estado aquiiiii :) mejora seria que el acelerometro sea lo maximo preciso con los movimientos del dispositivo 
+            # DMARD05: 3-axis I2C Accelerometer 
+            # DMARD06: 3-axis I2C Accelerometer 
+          - domintech,dmard06 
+            # DMARD05: 3-axis I2C Accelerometer 
           - domintech,dmard07
-            # DMARD09: 3-axis Accelerometer Laura a estado aqui
+            # DMARD09: 3-axis Accelerometer 
           - domintech,dmard09
-            # DMARD10: 3-axis Accelerometer Alba ha estado aquí, jeje
+            # DMARD10: 3-axis Accelerometer 
           - domintech,dmard10
-          # DMARD10: 3-axis Accelerometer Angelica  ha estado aquí, <3
+          # DMARD10: 3-axis Accelerometer  <3
           - domintech,dmard10
             # MMA7660FC: 3-Axis Orientation/Motion Detection Sensor
           - fsl,mma7660
