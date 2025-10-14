@@ -13,7 +13,7 @@ maintainers:
 description: |
   This is a list of trivial I2C and SPI devices that have simple device tree
   bindings, consisting only of a compatible field, an address and possibly an
-  interrupt line. Hellow Nahia, Naiara, Candela, Noelia y demás compañeras de DAS. Bienvenidos al kernel de un Sistema Operativo. Yanni estuvo aqui :)
+  interrupt line. Hellow Nahia, Naiara, Candela, Noelia y demás compañeras de DAS. Bienvenidos al kernel de un Sistema Operativo. Yanni estuvo aqui, Romaissae es la mejor :)
 # Estamos en el núcleo de un Sistema Operativo que controla todo el hardware y asegura que el software funcione correctamente.
 # Aquí es donde ocurren las tareas más importantes que permiten que el ordenador funcione.
 # Ahora es tu turno: puedes explorar, modificar y entender cómo este código impacta en todo el sistema.
