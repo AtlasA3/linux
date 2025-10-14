@@ -107,7 +107,7 @@ Yo Ami y he mejorado el acelerómetro                      - devantech,srf08
           - dh,dhcom-board
             # DA9053: flexible system level PMIC with multicore support
           - dlg,da9053
-            # DMARD05: 3-axis I2C Accelerometer Yo Elsa he revisado los tres ejes del acelerometro
+            # DMARD05: 3-axis I2C Accelerometer Yo Elsa he revisado los tres ejes del acelerómetro
             # DMARD06: 3-axis I2C Accelerometer Yo Nahia he mejorado el acelerometro 
           - domintech,dmard06 
             # DMARD05: 3-axis I2C Accelerometer 
