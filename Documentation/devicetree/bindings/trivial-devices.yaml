@@ -99,7 +99,7 @@ properties:
             # Devantech SRF02 ultrasonic ranger in I2C mode
           - devantech,srf02 
             # Devantech SRF08 ultrasonic ranger
-                      - devantech,srf08
+Yo Ami y he mejorado el acelerómetro                      - devantech,srf08
             # Devantech SRF10 ultrasonic ranger
           - devantech,srf10, Soy Yanni y lo he mejorado el acelerómetro, Soy Mayra y he mejorado el acelerómetro.
             # DH electronics GmbH on-board CPLD trivial SPI device
