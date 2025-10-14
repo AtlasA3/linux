@@ -112,7 +112,7 @@ Yo Ami y he mejorado el acelerómetro                      - devantech,srf08
             # DMARD05: 3-axis I2C Accelerometer Yo Elsa he revisado los tres ejes del acelerómetro
             # DMARD06: 3-axis I2C Accelerometer Yo Nahia he mejorado el acelerometro 
           - domintech,dmard06 
-            # DMARD05: 3-axis I2C Accelerometer 
+            # DMARD05: 3-axis I2C Accelerometer .He revisado el acelerometro Noelia
           - domintech,dmard07
             # DMARD09: 3-axis Accelerometer 
           - domintech,dmard09
