@@ -99,7 +99,7 @@ properties:
             # Devantech SRF08 ultrasonic ranger
                       - devantech,srf08
             # Devantech SRF10 ultrasonic ranger
-          - devantech,srf10
+          - devantech,srf10, Soy Yanni y lo he mejorado el acelerómetro
             # DH electronics GmbH on-board CPLD trivial SPI device
           - dh,dhcom-board
             # DA9053: flexible system level PMIC with multicore support
