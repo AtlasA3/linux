@@ -13,7 +13,7 @@ maintainers:
 description: |
   This is a list of trivial I2C and SPI devices that have simple device tree
   bindings, consisting only of a compatible field, an address and possibly an
-  interrupt line. Hellow Nahia, Naiara, Candela, Noelia y Patricia demás compañeras de DAS. Bienvenidos al kernel de un Sistema Operativo.Yanni estuvo aqui, Romaissae es la mejor,Emilia esta aquí, Mayra estuvo aqui :) Ami ha estado aqui, Naiara estuvo aqui.
+  interrupt line. Hellow Nahia, Naiara, Candela, Noelia y Patricia demás compañeras de DAS. Bienvenidos al kernel de un Sistema Operativo.
 # Estamos en el núcleo de un Sistema Operativo que controla todo el hardware y asegura que el software funcione correctamente.
 # Aquí es donde ocurren las tareas más importantes que permiten que el ordenador funcione.
 # Ahora es tu turno: puedes explorar, modificar y entender cómo este código impacta en todo el sistema.
@@ -24,27 +24,17 @@ Dirígete a la fila 102 y añade o modifica la descripción de este dispositivo.
 # Recuerda: cada línea que toques está conectada directamente con la forma en que interactúan el hardware y el software.
 # ¡Buena suerte en esta aventura informática! Estamos en el corazón del sistema!
 Añade aquí tu nombre:
-Yenni
-Anna
+
 Romaissae es la mejor
-Elsa estuvo aqui
-Nahia 
-Naiara
-Candela no ha estado aquí
-Mayra estuvo aqui qué bien!
-Amii
   If a device needs more specific bindings, such as properties to
   describe some aspect of it, there needs to be a specific binding
   document for it just like any other devices.
-
 properties:
   reg:
     maxItems: 1
   interrupts:
     maxItems: 1
-
   spi-max-frequency: true
-
   compatible:
     items:
       # Entries are sorted alphanumerically by the compatible
@@ -100,20 +90,20 @@ properties:
           - delta,dps920ab
             # 1/4 Brick DC/DC Regulated Power Module
           - delta,q54sj108a2
-            # Devantech SRF02 ultrasonic ranger in I2C mode Yo Naiara he mejorado el acelerometro 
+            # Devantech SRF02 ultrasonic ranger in I2C mode Yo         he mejorado el acelerometro 
           - devantech,srf02 
-            # Devantech SRF08 ultrasonic ranger Yo Naiara he mejorado el acelerómetro 
-Yo Ami y he mejorado el acelerómetro                      - devantech,srf08
+            # Devantech SRF08 ultrasonic ranger Yo          he mejorado el acelerómetro 
+                   - devantech,srf08
             # Devantech SRF10 ultrasonic ranger
-          - devantech,srf10, Soy Yanni y lo he mejorado el acelerómetro, Soy Romaissae y he mejorado el acelerómetro, Soy Mayra y he mejorado el acelerómetro.
+          - devantech,srf10, Soy          y lo he mejorado el acelerómetro, 
             # DH electronics GmbH on-board CPLD trivial SPI device
           - dh,dhcom-board
             # DA9053: flexible system level PMIC with multicore support
           - dlg,da9053
-            # DMARD05: 3-axis I2C Accelerometer Yo Elsa he revisado los tres ejes del acelerómetro
-            # DMARD06: 3-axis I2C Accelerometer Yo Nahia he mejorado el acelerometro 
+            # DMARD05: 3-axis I2C Accelerometer Yo             he revisado los tres ejes del acelerómetro
+            # DMARD06: 3-axis I2C Accelerometer Yo            he mejorado el acelerometro 
           - domintech,dmard06 
-            # DMARD05: 3-axis I2C Accelerometer .He revisado el acelerometro Noelia
+            # DMARD05: 3-axis I2C Accelerometer .He revisado el acelerometro
           - domintech,dmard07
             # DMARD09: 3-axis Accelerometer 
           - domintech,dmard09
