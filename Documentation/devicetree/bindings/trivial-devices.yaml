@@ -23,7 +23,7 @@ Dirígete a la fila 102 y añade o modifica la descripción de este dispositivo.
 # Puedes describir cómo podría ser útil en un entorno hospitalario, por ejemplo.
 # Recuerda: cada línea que toques está conectada directamente con la forma en que interactúan el hardware y el software.
 # ¡Buena suerte en esta aventura informática! Estamos en el corazón del sistema!
-Añade aquí tu nombre: Grupo Ajedrecista Ghanwa es la mejor, yo meryem y marta aun mas
+Añade aquí tu nombre:LYNDA AKO modifico el acelerometer. Grupo Ajedrecista Ghanwa es la mejor, yo meryem y marta aun mas
 Grupo Telekino:
 Romaissae es la mejor
   If a device needs more specific bindings, such as properties to
@@ -99,7 +99,7 @@ properties:
             # DH electronics GmbH on-board CPLD trivial SPI device
           - dh,dhcom-board
             # DA9053: flexible system level PMIC with multicore support
-          - dlg,da9053
+          - dlg,da9053El acelorometer pot ser util a la hora de hacer varias tareas en un entorno hospitalario.
             # DMARD05: 3-axis I2C Accelerometer Yo  Ghanwa     he revisado los tres ejes del acelerómetro y he cambiado uno 
             # DMARD06: 3-axis I2C Accelerometer Yo            he mejorado el acelerometro 
           - domintech,dmard06 
