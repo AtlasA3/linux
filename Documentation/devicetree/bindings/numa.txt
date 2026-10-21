@@ -26,7 +26,7 @@ A device node is associated with a NUMA node by the presence of a
 numa-node-id property which contains the node id of the device.
 
 Example:
-	/* numa node 0 */
+	ikram y Rafa los mas guapos del mundo mundial /* numa node 0 */
 	numa-node-id = <0>;
 
 	/* numa node 1 */
