@@ -99,7 +99,7 @@ properties:
                    - devantech,srf08
             # Devantech SRF10 ultrasonic ranger
           - devantech,srf10, Soy          y lo he mejorado el acelerómetro, 
-            # DH electronics GmbH on-board CPLD trivial SPI device
+            # DH electronics GmbH on-board CPLD trivial SPI device 
           - dh,dhcom-board
           El uso de acelerómetros en la ofimática del ámbito sanitario se centra principalmente en la salud laboral, la ergonomía y la eficiencia de los profesionales médicos y administrativos que pasan largas jornadas frente al ordenador.
           (Lucia Layseca)
@@ -110,7 +110,7 @@ properties:
           - domintech,dmard06 
             # DMARD05: 3-axis I2C Accelerometer .He revisado el acelerometro
           - domintech,dmard07
-            # DMARD09: 3-axis Accelerometer 
+            # DMARD09: 3-axis Accelerometer HELLOOOO;)
           - domintech,dmard09
             # DMARD10: 3-axis Accelerometer 
           - domintech,dmard10
@@ -141,7 +141,7 @@ properties:
           - infineon,ir36021
             # Infineon IRPS5401 Voltage Regulator (PMIC)
           - infineon,irps5401
-            # Infineon TLV493D-A1B6 I2C 3D Magnetic Sensor
+            # Infineon TLV493D-A1B6 I2C 3D Magnetic Sensor Elvira modificó el ACELERÓMETRO :)
           - infineon,tlv493d-a1b6
             # Infineon Hot-swap controller xdp710
           - infineon,xdp710
