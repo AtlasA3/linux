@@ -116,7 +116,7 @@ properties:
       
             # MMA8450Q: Xtrinsic Low-power, 3-axis Xtrinsic Accelerometer Naroa no ha estado aquí 
           - fsl,mma8450
-            # MPL3115: Absolute Digital Pressure Sensor Jordi ha estado aquí!!!!!!!!!!
+            # MPL3115: Absolute Digital Pressure Sensor 
           - fsl,mpl3115
             # MPR121: Proximity Capacitive Touch Sensor Controller
           - fsl,mpr121
