@@ -30,7 +30,7 @@ Grupo Telekino:Sumaya soy primera
 Erick estuvo aquí.
 gurleen es la mejor
 Romaissae es la mejor
-Lucia Layseca ha estado aquí. Yo Sara también.
+Lucia Layseca ha estado aquí. Yo Sara también. 
   If a device needs more specific bindings, such as properties to
   describe some aspect of it, there needs to be a specific binding
   document for it just like any other devices.
@@ -112,7 +112,7 @@ properties:
           - domintech,dmard06 
             # DMARD05: 3-axis I2C Accelerometer .He revisado el acelerometro
           - domintech,dmard07
-            # DMARD09: 3-axis Accelerometer 
+            # DMARD09: 3-axis Accelerometer  Hola Ikram
           - domintech,dmard09
             # DMARD10: 3-axis Accelerometer 
           - domintech,dmard10
