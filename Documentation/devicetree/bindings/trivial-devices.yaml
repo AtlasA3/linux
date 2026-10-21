@@ -101,6 +101,8 @@ properties:
           - devantech,srf10, Soy          y lo he mejorado el acelerómetro, 
             # DH electronics GmbH on-board CPLD trivial SPI device
           - dh,dhcom-board
+          El uso de acelerómetros en la ofimática del ámbito sanitario se centra principalmente en la salud laboral, la ergonomía y la eficiencia de los profesionales médicos y administrativos que pasan largas jornadas frente al ordenador.
+          (Lucia Layseca)
             # DA9053: flexible system level PMIC with multicore support
           - dlg,da9053El acelorometer pot ser util a la hora de hacer varias tareas en un entorno hospitalario.
             # DMARD05: 3-axis I2C Accelerometer Yo  Ghanwa     he revisado los tres ejes del acelerómetro y he cambiado uno 
